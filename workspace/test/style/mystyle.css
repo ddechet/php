@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+td.label {
+	background-color:red;
+	color:blue;
+}
+
+td.label#test {
+	color:white;
+}
+
+.mydiv {
+	position:absolute;
+	top:100px;
+	right:200px;
+}
